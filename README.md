@@ -1,0 +1,2 @@
+# estadistica
+ejemplo estadística
